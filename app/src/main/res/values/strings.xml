@@ -4,5 +4,6 @@
     <string name="welcome">Selamat Datang</string>
     <string name="home">Beranda</string>
     <string name="form_button">Isi Formulir</string>
+    <string name="submit">Submit</string>
 
 </resources>
