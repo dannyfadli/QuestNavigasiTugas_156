@@ -6,5 +6,8 @@
 
     <dimen name="thickness_divider">1dp</dimen>
 
+    <dimen name="image_height">180dp</dimen>
+
+
 
 </resources>
