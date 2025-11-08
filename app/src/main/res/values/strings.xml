@@ -11,4 +11,6 @@
     <string name="jenis_kelamin">Jenis Kelamin</string>
     <string name="alamat">Alamat</string>
 
+    <string name="data_saved_title">Data Berhasil Disimpan</string>
+
 </resources>
