@@ -16,6 +16,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.unit.sp
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -47,3 +48,10 @@ fun Beranda(onStartClick: () -> Unit) {
                 verticalArrangement = Arrangement.Center,
                 modifier = Modifier.padding(horizontal = dimensionResource(id = R.dimen.padding_medium))
             ) {
+                Text(
+                    text = "Amphoreus",
+                    fontSize = 22.sp,
+                    fontWeight = FontWeight.Bold,
+                    color = Color(0xFF004D40)
+                )
+
