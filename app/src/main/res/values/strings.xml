@@ -8,5 +8,6 @@
     <string name="back">Bersihkan</string>
 
     <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
 
 </resources>
