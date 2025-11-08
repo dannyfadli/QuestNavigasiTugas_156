@@ -77,3 +77,6 @@ fun Beranda(onStartClick: () -> Unit) {
                         .clip(RoundedCornerShape(16.dp)),
                     contentScale = ContentScale.Crop
                 )
+
+                Spacer(modifier = Modifier.height(dimensionResource(id = R.dimen.padding_large)))
+
