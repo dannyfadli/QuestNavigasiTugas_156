@@ -170,7 +170,7 @@ fun ListParticipant(
                                         fontWeight = FontWeight.Bold,
                                         color = Color.Black
                                     )
-                                    Text(text = "Elysia Aedes", fontSize = 17.sp)
+                                    Text(text = "ElysiaAedes", fontSize = 17.sp)
                                 }
                             }
                         }
