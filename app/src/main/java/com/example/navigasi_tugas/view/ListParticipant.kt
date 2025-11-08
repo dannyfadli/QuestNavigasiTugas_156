@@ -100,7 +100,7 @@ fun ListParticipant(
                                         fontWeight = FontWeight.Bold,
                                         color = Color.Black
                                     )
-                                    Text(text = "nama", fontSize = 17.sp)
+                                    Text(text = "Phaino", fontSize = 17.sp)
                                     Spacer(Modifier.height(8.dp))
                                     Text(
                                         "STATUS PERKAWINAN",
@@ -108,7 +108,7 @@ fun ListParticipant(
                                         fontWeight = FontWeight.Bold,
                                         color = Color.Black
                                     )
-                                    Text(text = "status", fontSize = 17.sp)
+                                    Text(text = "Duda", fontSize = 17.sp)
                                 }
                                 Column(Modifier.weight(1f)) {
                                     Text(
@@ -117,7 +117,7 @@ fun ListParticipant(
                                         fontWeight = FontWeight.Bold,
                                         color = Color.Black
                                     )
-                                    Text(text = "jenis kelamin", fontSize = 17.sp)
+                                    Text(text = "Laki-Laki", fontSize = 17.sp)
                                     Spacer(Modifier.height(8.dp))
                                     Text(
                                         "ALAMAT",
@@ -125,7 +125,7 @@ fun ListParticipant(
                                         fontWeight = FontWeight.Bold,
                                         color = Color.Black
                                     )
-                                    Text(text = "alamat", fontSize = 17.sp)
+                                    Text(text = "Elysia Aedes", fontSize = 17.sp)
                                 }
                             }
                         }
@@ -145,7 +145,7 @@ fun ListParticipant(
                                         fontWeight = FontWeight.Bold,
                                         color = Color.Black
                                     )
-                                    Text(text = "nama", fontSize = 17.sp)
+                                    Text(text = "Cyrne", fontSize = 17.sp)
                                     Spacer(Modifier.height(8.dp))
                                     Text(
                                         "STATUS PERKAWINAN",
@@ -153,7 +153,7 @@ fun ListParticipant(
                                         fontWeight = FontWeight.Bold,
                                         color = Color.Black
                                     )
-                                    Text(text = "status", fontSize = 17.sp)
+                                    Text(text = "Janda", fontSize = 17.sp)
                                 }
                                 Column(Modifier.weight(1f)) {
                                     Text(
@@ -162,7 +162,7 @@ fun ListParticipant(
                                         fontWeight = FontWeight.Bold,
                                         color = Color.Black
                                     )
-                                    Text(text = "jenis kelamin", fontSize = 17.sp)
+                                    Text(text = "Perempuan", fontSize = 17.sp)
                                     Spacer(Modifier.height(8.dp))
                                     Text(
                                         "ALAMAT",
@@ -170,7 +170,7 @@ fun ListParticipant(
                                         fontWeight = FontWeight.Bold,
                                         color = Color.Black
                                     )
-                                    Text(text = "alamat", fontSize = 17.sp)
+                                    Text(text = "Elysia Aedes", fontSize = 17.sp)
                                 }
                             }
                         }
