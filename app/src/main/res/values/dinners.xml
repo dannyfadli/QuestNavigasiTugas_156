@@ -8,6 +8,7 @@
 
     <dimen name="image_height">180dp</dimen>
     <dimen name="button_height">48dp</dimen>
+    <dimen name="corner_radius">12dp</dimen>
 
 
 </resources>
