@@ -3,5 +3,6 @@
 
     <string name="welcome">Selamat Datang</string>
     <string name="home">Beranda</string>
+    <string name="form_button">Isi Formulir</string>
 
 </resources>
