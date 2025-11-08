@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Navigasi_Tugas</string>
+
+    <string name="welcome">Selamat Datang</string>
+
 </resources>
