@@ -2,5 +2,6 @@
     <string name="app_name">Navigasi_Tugas</string>
 
     <string name="welcome">Selamat Datang</string>
+    <string name="home">Beranda</string>
 
 </resources>
