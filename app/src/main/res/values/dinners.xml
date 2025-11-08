@@ -7,7 +7,7 @@
     <dimen name="thickness_divider">1dp</dimen>
 
     <dimen name="image_height">180dp</dimen>
-
+    <dimen name="button_height">48dp</dimen>
 
 
 </resources>
